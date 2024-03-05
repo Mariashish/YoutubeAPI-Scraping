@@ -98,7 +98,7 @@ def save_to_csv(data, filename="youtube_data.csv"):
 # Verifico se lo script è eseguito direttamente
 if __name__ == "__main__":
     # Sostituisci api_key e channel_id con la tua API key e l'ID del canale desiderato
-    api_key = "AIzaSyB7Jnanmwa1gEC--MilXixLCnqKuWg2YF8"
+    api_key = ""
     channel_id = "UCX6OQ3DkcsbYNE6H8uQQuVA"
 
     # Ottengo i dati dal canale YouTube
